@@ -1,0 +1,23 @@
+{
+  "name": "ts-dnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turkaytunc/ts-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turkaytunc/ts-practice/issues"
+  },
+  "homepage": "https://github.com/turkaytunc/ts-practice#readme",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
+}
